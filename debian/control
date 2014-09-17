@@ -1,0 +1,12 @@
+Source: ros-hydro-pr2-2dnav-slam
+Section: misc
+Priority: extra
+Maintainer: Devon Ash <dash@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin, ros-hydro-pr2-machine, ros-hydro-pr2-navigation-perception, ros-hydro-pr2-navigation-slam, ros-hydro-pr2-navigation-teleop
+Homepage: http://ros.org/wiki/pr2_2dnav_slam
+Standards-Version: 3.9.2
+
+Package: ros-hydro-pr2-2dnav-slam
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-pr2-machine, ros-hydro-pr2-navigation-perception, ros-hydro-pr2-navigation-slam, ros-hydro-pr2-navigation-teleop
+Description: This application allows the PR2 to navigate autonomously while also building a map of its environment as it drives along.
