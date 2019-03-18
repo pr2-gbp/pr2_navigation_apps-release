@@ -1,0 +1,8 @@
+ros-kinetic-pr2-2dnav-slam (1.0.2-0xenial) xenial; urgency=high
+
+  * Removed rosbuild files, added install for launch files
+  * Contributors: TheDash
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Tue, 17 Mar 2015 07:00:00 -0000
+
+
