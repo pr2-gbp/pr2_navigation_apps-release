@@ -1,0 +1,8 @@
+ros-kinetic-pr2-2dnav (1.0.2-0xenial) xenial; urgency=high
+
+  * Updated pr2_2dnav to install launch files and remove unecessary rosbuild files
+  * Contributors: TheDash
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Tue, 17 Mar 2015 07:00:00 -0000
+
+
